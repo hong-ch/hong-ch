@@ -19,6 +19,7 @@
 
 
 ### ▎📊 Github Stats
+<!--
 ![Changhee Hong's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hong-ch&show_icons=true&count_private=true&line_height=24&theme=react&hide_border=true&card_width=500)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=500&card_height=190)](https://git.io/streak-stats)
 
@@ -28,5 +29,11 @@
 
   <img src="https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=400&card_height=190" alt="GitHub Streak" style="display: inline-block; margin: 0 10px;" />
 
+</div>
+-->
+
+<div align="center">
+  <img src="https://github-readme-stats-sand-six-91.vercel.app/api?username=hong-ch&show_icons=true&count_private=true&line_height=24&theme=react&hide_border=true" style="width: 500px; height: 150px;" alt="Changhee Hong's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=500&card_height=190" style="width: 400px;" alt="GitHub Streak" />
 </div>
 
