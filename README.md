@@ -6,7 +6,7 @@
 
 <br>
 
-### ▎🌐 Languages
+### ▎📚 Stacks
 <!--
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
@@ -24,7 +24,7 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></span>
 -->
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
 <br>
 
