@@ -37,3 +37,32 @@
   <img src="https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=500&card_height=190" style="width: 400px;" alt="GitHub Streak" />
 </div>
 
+
+![Changhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong-ch&show_icons=true&rank_icon=github&theme=react&hide_border=true&card_height=190)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_height=190)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hong-ch&show_icons=true&rank_icon=github&theme=react&hide_border=true&card_width=300&card_height=190" style="width: 500px; height: 150px;" alt="Changhee's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=500&card_height=190" style="width: 400px;" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hong-ch&show_icons=true&rank_icon=github&theme=react&hide_border=true&card_width=400&card_height=190" style="width: 500px; height: 150px; margin: 0;" alt="Changhee's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=500&card_height=190" style="width: 400px; margin:0" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hong-ch&show_icons=true&rank_icon=github&theme=react&hide_border=true&card_width=400&card_height=190" style="width: 400px; height: 190px; margin: 0; padding: 0;" alt="Changhee's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=430&card_height=190" style="width: 400px; height: 190px; margin: 0; padding: 0;" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; margin: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hong-ch&show_icons=true&rank_icon=github&theme=react&hide_border=true&card_width=400&card_height=190" style="width: 400px; height: 190px; margin: 0;" alt="Changhee's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=hong-ch&theme=react&hide_border=true&card_width=400&card_height=190" style="width: 400px; height: 190px; margin: 0;" alt="GitHub Streak" />
+</div>
+
+
