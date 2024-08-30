@@ -2,6 +2,9 @@
 
 <a href="https://velog.io/@changh2_00/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@changh2_00/posts"/></a>
 <a href="mailto:changhi9701@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=changhi9701@gmail.com"/></a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=changhi9701)](https://solved.ac/changhi9701)
+
+<br>
 
 ### ▎🌐 Languages
 <!--
@@ -13,6 +16,8 @@
 -->
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,react)](https://skillicons.dev)
 
+<br>
+
 ### ▎🛠 Tools
 <!--
 <span><img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/></span>
@@ -20,6 +25,8 @@
 <span><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></span>
 -->
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+
+<br>
 
 ### ▎📊 Github Stats
 
