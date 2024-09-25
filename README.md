@@ -17,7 +17,7 @@
 
 ### ▎🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,anaconda)](https://skillicons.dev)
 
 <br>
 
