@@ -1,7 +1,9 @@
 ## ▎Hi there 👋 <br>▎I'm Changhee 
 
 <a href="https://velog.io/@changh2_00/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@changh2_00/posts"/></a>
+<a href="https://www.linkedin.com/in/changhee-hong"><img src="http://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changhee-hong"/></a>
 <a href="mailto:changhi9701@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=changhi9701@gmail.com"/></a>
+
 
 <br>
 
