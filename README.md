@@ -10,7 +10,7 @@
 
 ### ▎📚 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,react,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,react,mysql,sklearn,tensorflow,opencv)](https://skillicons.dev)
 <a href="https://solved.ac/changhi9701">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=changhi9701&theme=dark" style="margin-right: 900px;" />
 </a>
@@ -19,7 +19,7 @@
 
 ### ▎🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,anaconda,linux)](https://skillicons.dev)
 
 <br>
 
