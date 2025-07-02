@@ -12,6 +12,8 @@
 
 [![My Skills1](https://skillicons.dev/icons?i=python,c,js,react,mysql,sklearn,tensorflow,pytorch,opencv)](https://skillicons.dev)
 
+<br>
+
 <a href="https://solved.ac/changhi9701">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=changhi9701&theme=dark" style="margin-right: 900px;" />
 </a>
