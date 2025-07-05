@@ -19,7 +19,7 @@
 
 ### ▎🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,anaconda,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,github,git,figma,anaconda,linux,ubuntu)](https://skillicons.dev)
 
 <br>
 
